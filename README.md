@@ -1,7 +1,7 @@
 # Auto_Enviar_Email
 ## projeto simples para enviar Email para multiplas pessoas ao mesmo tempo.
 
-### Passo a passo de como gerar a Senha de APP, para usar o sistema*
+### Passo a passo de como gerar a Senha de APP, para usar o sistema
 1. **Acesse sua conta Google**
    - Vá para [https://myaccount.google.com](https://myaccount.google.com).
    - Faça login com seu e-mail e senha.(Que deseja usar para envio).
